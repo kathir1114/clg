@@ -1,0 +1,4 @@
+{'name': 'Kathiresan R', 'MobileNumber': '6374451433', 'email': 'textme.kathir@gmail.com', 'date': '2025-01-07', 'dept': 'Information Technology', 'eventName': '', 'eventDate': '', 'eventDept': '', 'photo_path': 'parthi2.png'}
+{'name': 'Kathiresan R', 'MobileNumber': '6374451433', 'email': 'textme.kathir@gmail.com', 'date': '2025-01-07', 'dept': 'Information Technology', 'eventName': '', 'eventDate': '', 'eventDept': '', 'photo_path': 'parthi2.png'}
+{'name': 'Kathiresan R', 'MobileNumber': '6374451433', 'email': 'textme.kathir@gmail.com', 'date': '2025-01-07', 'dept': 'Information Technology', 'eventName': '', 'eventDate': '', 'eventDept': '', 'photo_path': 'parthi2.png'}
+{'name': 'Kathiresan R', 'MobileNumber': '6374451433', 'email': 'textme.kathir@gmail.com', 'date': '2025-01-07', 'dept': 'Information Technology', 'eventName': 'hackthon', 'eventDate': '2025-01-07', 'eventDept': 'Mechanical', 'photo_path': 'parthi2.png'}
